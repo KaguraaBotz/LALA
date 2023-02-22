@@ -1,6 +1,6 @@
 /*
-Created By @Lexxy Official
-Base Ori @DikaArdnt
+Created By @YÀAN STORE 
+Base Ori @FABIAN
 Ganti Owner Dll Di Settings.js
 */
 
