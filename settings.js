@@ -10,25 +10,25 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
+global.owner = ['6282113899541','6282113899541','6282113899541']
+global.premium = ['6282113899541']
+global.ownernomer = '6282113899541'
+global.ownername = 'YÀAN STORE'
 global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.footer = 'YÀAN STORE'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
+global.packname = '© MUKA LU KEK KONTOL'
+global.author = 'WELCOME TO 2023'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.youtube = 'https://youtube.com/c/XANILASAMP'
+global.ig = 'https://instagram.com/anakmamahandpapa'
+global.mygc = 'https://chat.whatsapp.com/LVHsaI6tegfDutYoHGZLeu'
+global.myweb = 'https://github.com/KaguraaBotz'
+global.email = 'fifakontop@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
